@@ -1,0 +1,2 @@
+var ApiGen = ApiGen || {};
+ApiGen.elements = [{"file":"namespace-Aina.Controller.html","label":"Aina\\Controller"},{"file":"namespace-Aina.Provider.html","label":"Aina\\Provider"},{"file":"class-Aina.Controller.HelloController.html","label":"Aina\\Controller\\HelloController"},{"file":"class-Aina.Controller.TestController.html","label":"Aina\\Controller\\TestController"},{"file":"class-Aina.Provider.HelloProvider.html","label":"Aina\\Provider\\HelloProvider"},{"file":"class-Aina.Provider.TestProvider.html","label":"Aina\\Provider\\TestProvider"}];

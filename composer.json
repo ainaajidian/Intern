@@ -1,7 +1,13 @@
 {
-    "require": {
+    "require": 
+    {
     	"apigen/apigen": "5.0.0.RC4",
     	"roave/better-reflection": "dev-master#a83ef24",
         "silex/silex": "~2.0"
+    },
+
+    "autoload":
+    {
+    	"psr-4": {"Aina\\": "src/Aina/"}
     }
 }

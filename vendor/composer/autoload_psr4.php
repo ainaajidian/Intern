@@ -38,4 +38,5 @@ return array(
     'ApiGen\\Element\\' => array($vendorDir . '/apigen/apigen/packages/Element/src'),
     'ApiGen\\Annotation\\' => array($vendorDir . '/apigen/apigen/packages/Annotation/src'),
     'ApiGen\\' => array($vendorDir . '/apigen/apigen/src'),
+    'Aina\\' => array($baseDir . '/src/Aina'),
 );

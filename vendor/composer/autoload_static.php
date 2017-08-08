@@ -64,6 +64,7 @@ class ComposerStaticInit79e6d48ddbf92a893e5c58e5050d2f1f
             'ApiGen\\Element\\' => 15,
             'ApiGen\\Annotation\\' => 18,
             'ApiGen\\' => 7,
+            'Aina\\' => 5,
         ),
     );
 
@@ -197,6 +198,10 @@ class ComposerStaticInit79e6d48ddbf92a893e5c58e5050d2f1f
         'ApiGen\\' => 
         array (
             0 => __DIR__ . '/..' . '/apigen/apigen/src',
+        ),
+        'Aina\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src/Aina',
         ),
     );
 
