@@ -27,7 +27,8 @@ class HelloController
 
     /**
 	* 
-	an Example function of kabar
+	* an Example function of kabar
+  * @return message
 	*/
     public function kabar()
     { return new Response('Message : Apa Kabar NOY'); }
